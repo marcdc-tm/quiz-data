@@ -1,0 +1,26 @@
+[{
+  "vraag": "Waarvan is dit het logo?",
+  "antwoorden": ["Android Studio", "Dart", "Flutter", "Xcode", "IntelliJ"],
+  "correct": 2,
+  "afbeelding":"afbeeldingen/flutterbis.png"
+}, {
+  "vraag": "Welke taal gebruiken we in Flutter?",
+  "antwoorden": ["C", "Dart", "Java", "Python"],
+  "correct": 1,
+  "afbeelding":"afbeeldingen/programminglanguages.png"
+}, {
+  "vraag": "Wat is een voorbeeld van een widget?",
+  "antwoorden": ["class","Container", "const", "import"],
+  "correct": 1,
+  "afbeelding":"afbeeldingen/widgettree.png"
+}, {
+  "vraag": "Welke widget heeft maar 1 child?",
+  "antwoorden": ["Column", "Container", "ListView", "Row"],
+  "correct": 1,
+  "afbeelding":"afbeeldingen/widgetchild.png"
+}, {
+  "vraag": "In welk bestand declareert u afbeeldingen en andere bronnen?",
+  "antwoorden": [ "assets","main.dart", "pubspec.\nyaml","Runner.\nxcodeproj"],
+  "correct": 2,
+  "afbeelding":"afbeeldingen/pubspec.png"
+}]
